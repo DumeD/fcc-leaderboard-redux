@@ -1,0 +1,12 @@
+.img {
+  width: 100px;
+  height: 100px;
+}
+
+tr, th, td {
+  border: 1px solid black;
+}
+ tr > td {
+   text-align: center;
+   margin: 0 auto;
+ }
